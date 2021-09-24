@@ -1,0 +1,62 @@
+body{
+  background-color: rgb(179, 245, 245);
+}
+form {
+  margin-top: 2cm;
+    border: 3px solid #141111;
+  }
+  h1{
+    margin-left: 16cm;
+  }
+  /* Full-width inputs */
+  input[type=text], input[type=password] {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 10px;
+    display: inline-block;
+    border: 1px solid rgb(138, 134, 134);
+    box-sizing: border-box;
+    border-radius: 15px;
+  }
+
+  
+  /* Set a style for all buttons */
+  button {
+    background-color: #134357;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 69px;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+    width: 10%; 
+  }
+  .remember{
+      margin: 0px 68px;
+  }
+  /* Add a hover effect for buttons */
+  button:hover {
+    opacity: 0.9;
+  }
+  
+  
+  /* Center the avatar image inside this container */
+  .imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+  }
+  
+  /* Avatar image */
+  img.avatar {
+    width: 40%;
+    border-radius: 50%;
+  }
+  
+  /* Add padding to containers */
+  .container {
+      text-align: center;
+    padding: 16px;
+  }
+  
+ 
+  
